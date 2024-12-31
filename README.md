@@ -1,3 +1,3 @@
 # Git-Project
 my first git project repository
-sourabh
+Sourabh Singh
